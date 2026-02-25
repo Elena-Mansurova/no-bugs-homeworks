@@ -10,16 +10,16 @@ public class Main {
         Company employee3 = new Company(1002, "Duck");
 
         Company.companyName = "Sony";
-        Company.printCompaneName();
+        Company.printCompanyName();
         System.out.println(employee2.employeeID);
         // employee2.employeeID = 2000;
 
         // вызов методов класса MathConstants
 
-        MathConstants.calculateCircleArea(10);
-        MathConstants.calculateCircleArea(20);
-        MathConstants.calculateCircumference(8);
-        MathConstants.calculateCircumference(10);
+        System.out.println(MathConstants.calculateCircleArea(10));
+        System.out.println(MathConstants.calculateCircleArea(20));
+        System.out.println(MathConstants.calculateCircumference(8));
+        System.out.println(MathConstants.calculateCircumference(10));
 
         System.out.println("------------------------------");
 

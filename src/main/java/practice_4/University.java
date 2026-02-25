@@ -5,12 +5,12 @@ public class University {
     final int studentID;
     private String studentName;
 
-    University (int studentID, String studentName) {
+    public University (int studentID, String studentName) {
         this.studentID = studentID;
         this.studentName = studentName;
     }
 
-    static void changeUniversityName(String newName) {
+    public static void changeUniversityName(String newName) {
         universityName = newName;
     }
 
@@ -19,7 +19,7 @@ public class University {
     }
 
     public void printStudentInfo() {
-        System.out.println("Student's mane is " + getStudentName() + ", student's ID is " + studentID + ", University name is " + universityName);
+        System.out.println("Student's name is " + getStudentName() + ", student's ID is " + studentID + ", University name is " + universityName);
     }
 
 }
