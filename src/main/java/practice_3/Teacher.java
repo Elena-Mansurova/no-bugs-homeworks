@@ -4,28 +4,28 @@ public class Teacher {
     private String name;
     private String subject;
 
-    Teacher(String name, String subject) {
+    public Teacher(String name, String subject) {
         this.name = name;
         this.subject = subject;
     }
 
-    String getName() {
+    public String getName() {
         return this.name;
     }
 
-    String subject() {
+    public String getSubject() {
         return this.subject;
     }
 
-    void setName(String newName) {
+    public void setName(String newName) {
         this.name = newName;
     }
 
-    void setSubject(String newSubject) {
+    public void setSubject(String newSubject) {
         this.subject = newSubject;
     }
 
-    void printInfo() {
+    public void printInfo() {
         System.out.println("Teacher's name is " + name + ", the subject is " + subject);
     }
 }

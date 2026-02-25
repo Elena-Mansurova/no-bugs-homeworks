@@ -10,16 +10,18 @@ public class Main {
 
         Rectangle rec1 = new Rectangle(4, 5);
         System.out.println(rec1.calculateArea());
+        rec1.setWidth(1);
+        System.out.println(rec1.calculateArea());
 
         Book book1 = new Book("Дюма", "Три мушкетера");
         book1.setAuthor("Александ Дюма");
         book1.printInfo();
 
         BankAccount johnSmith = new BankAccount("John Smith", 150000);
-        johnSmith.deposit(200000);
+        johnSmith.deposit(800);
         johnSmith.printBalance();
         System.out.println(johnSmith.getBalance());
-        johnSmith.withdraw(50000);
+        johnSmith.withdraw(700);
         johnSmith.printBalance();
         System.out.println(johnSmith.getBalance());
 
@@ -34,11 +36,11 @@ public class Main {
         group1.printInfo();
 
         Circle circle = new Circle(25.40);
-        System.out.println(circle.calculateAres());
-        System.out.println(circle.cakculateCircumference());
+        System.out.println(circle.calculateArea());
+        System.out.println(circle.calculateCircumference());
         circle.setRadius(80.25);
-        System.out.println(circle.calculateAres());
-        System.out.println(circle.cakculateCircumference());
+        System.out.println(circle.calculateArea());
+        System.out.println(circle.calculateCircumference());
 
         Teacher teacher1 = new Teacher("Olga Ivanovna", "English");
         teacher1.printInfo();

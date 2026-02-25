@@ -4,36 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb2ad03d-061d-4682-afd7-2d4034c81b99" name="Changes" comment="Add new package with classes">
-      <change afterPath="$PROJECT_DIR$/src/main/java/pracrice_5/AllOddNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pracrice_5/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pracrice_5/CatchForSimpleNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pracrice_5/CheckOddOrEven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pracrice_5/CheckingPassword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pracrice_5/CostOfTicket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pracrice_5/CountingOfNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pracrice_5/DayOfWeek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pracrice_5/ExitProgram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pracrice_5/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pracrice_5/FinalCountdown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pracrice_5/FindMaxnumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pracrice_5/FromOneToTen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pracrice_5/GradeFromOneToFive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pracrice_5/IfElseTasks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pracrice_5/NumbersDevidedByThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pracrice_5/NumbersFromOneToTen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pracrice_5/OnlyPositiveNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pracrice_5/PositiveNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pracrice_5/PrintStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pracrice_5/ResultsOfTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pracrice_5/SaleForAge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pracrice_5/ScoreIntoGrade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pracrice_5/SumOfNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pracrice_5/SumOfNumbersUntillNegative.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pracrice_5/TableOfMultiply.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pracrice_5/TextCommands.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pracrice_5/WithoutNumbersDevidedByThree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+    <list default="true" id="fb2ad03d-061d-4682-afd7-2d4034c81b99" name="Changes" comment="Add package practice_5">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice_3/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice_3/BankAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice_3/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice_3/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice_3/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice_3/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice_3/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice_3/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice_3/Laptop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice_3/Laptop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice_3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice_3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice_3/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice_3/Point.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice_3/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice_3/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice_3/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice_3/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice_3/StudentGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice_3/StudentGroup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice_3/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice_3/Teacher.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,51 +56,64 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.AllOddNumbers.executor": "Run",
-    "Application.Calculator.executor": "Run",
-    "Application.CatchForSimpleNumber.executor": "Run",
-    "Application.CheckOddOrEven.executor": "Run",
-    "Application.CheckingPassword.executor": "Run",
-    "Application.CostOfTicket.executor": "Run",
-    "Application.CountingOfNumbers.executor": "Run",
-    "Application.DayOfWeek.executor": "Run",
-    "Application.ExitProgram.executor": "Run",
-    "Application.Factorial.executor": "Run",
-    "Application.FinalCountdown.executor": "Run",
-    "Application.FindMaxnumber.executor": "Run",
-    "Application.FromOneToTen.executor": "Run",
-    "Application.GradeFromOneToFive.executor": "Run",
-    "Application.IfElseTasks.executor": "Run",
-    "Application.LybraryTest.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.MathOperations.executor": "Run",
-    "Application.NumbersDevidedByThree.executor": "Run",
-    "Application.NumbersFromOneToTen.executor": "Run",
-    "Application.OnlyPositiveNumbers.executor": "Run",
-    "Application.PositiveNumber.executor": "Run",
-    "Application.PrintStrings.executor": "Run",
-    "Application.ResultsOfTest.executor": "Run",
-    "Application.SaleForAge.executor": "Run",
-    "Application.ScoreIntoGrade.executor": "Run",
-    "Application.SumOfNumbers.executor": "Run",
-    "Application.SumOfNumbersTillNegative.executor": "Run",
-    "Application.SumOfNumbersUntillNegative.executor": "Run",
-    "Application.TableOfMultiply.executor": "Run",
-    "Application.TextCommands.executor": "Run",
-    "Application.WithoutNumbersDevidedByThree.executor": "Run",
-    "Application.practice_3.Main.executor": "Run",
-    "Application.practice_4.Main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/User/IdeaProjects/switch-to-qa-auto-project",
-    "settings.editor.selected.configurable": "vcs.Git"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AllOddNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CatchForSimpleNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CheckOddOrEven.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CheckingPassword.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CostOfTicket.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountingOfNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DayOfWeek.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExitProgram.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FinalCountdown.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindMaxnumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FromOneToTen.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GradeFromOneToFive.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IfElseTasks.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LybraryTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MathOperations.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumbersDevidedByThree.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumbersFromOneToTen.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OnlyPositiveNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PositiveNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrintStrings.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ResultsOfTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SaleForAge.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ScoreIntoGrade.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumOfNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumOfNumbersTillNegative.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumOfNumbersUntillNegative.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TableOfMultiply.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TextCommands.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WithoutNumbersDevidedByThree.executor&quot;: &quot;Run&quot;,
+    &quot;Application.practice_3.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.practice_4.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/IdeaProjects/switch-to-qa-auto-project&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.PrintStrings">
+}</component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice_3.Main" />
+      <module name="switch-to-qa-auto-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="OnlyPositiveNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pracrice_5.OnlyPositiveNumbers" />
       <module name="switch-to-qa-auto-project" />
@@ -133,19 +129,6 @@
     </configuration>
     <configuration name="PrintStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pracrice_5.PrintStrings" />
-      <module name="switch-to-qa-auto-project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pracrice_5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SumOfNumbersTillNegative" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pracrice_5.SumOfNumbersTillNegative" />
       <module name="switch-to-qa-auto-project" />
       <extension name="coverage">
         <pattern>
@@ -185,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.PrintStrings" />
         <item itemvalue="Application.OnlyPositiveNumbers" />
         <item itemvalue="Application.WithoutNumbersDevidedByThree" />
         <item itemvalue="Application.SumOfNumbersUntillNegative" />
-        <item itemvalue="Application.SumOfNumbersTillNegative" />
       </list>
     </recent_temporary>
   </component>
@@ -226,12 +209,29 @@
       <option name="project" value="LOCAL" />
       <updated>1770908677533</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add new package with classes">
+      <option name="closed" value="true" />
+      <created>1771946956470</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1771946956471</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add package practice_5">
+      <option name="closed" value="true" />
+      <created>1771947034257</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1771947034257</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Add new package with classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add new package with classes" />
+    <MESSAGE value="Add package practice_5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add package practice_5" />
   </component>
 </project>

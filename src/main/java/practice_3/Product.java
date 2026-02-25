@@ -4,28 +4,28 @@ public class Product {
     private String name;
     private double price;
 
-    Product(String name, double price) {
+    public Product(String name, double price) {
         this.name = name;
         this.price = price;
     }
 
-    String getName() {
+    public String getName() {
         return this.name;
     }
 
-    double getPrice() {
+    public double getPrice() {
         return this.price;
     }
 
-    void setName(String newName) {
+    public void setName(String newName) {
         this.name = newName;
     }
 
-    void setPrice(double newPrice) {
+    public void setPrice(double newPrice) {
         this.price = newPrice;
     }
 
-    void printInfo() {
+    public void printInfo() {
         System.out.println("The product is " + name + ", the price is " + price);
     }
 }

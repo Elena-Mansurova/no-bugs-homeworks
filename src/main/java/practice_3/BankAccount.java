@@ -4,34 +4,39 @@ public class BankAccount {
     private String owner;
     private int balance;
 
-    BankAccount(String owner, int balance) {
+    public BankAccount(String owner, int balance) {
         this.owner = owner;
         this.balance = balance;
     }
 
-    String getOwner() {
+    public String getOwner() {
         return this.owner;
     }
 
-    int getBalance() {
+    public int getBalance() {
         return this.balance;
     }
 
-    void setOwner(String newOwner) {
+    public void setOwner(String newOwner) {
         this.owner = newOwner;
     }
-    void setBalance(int newBalance) {
-        this.balance = newBalance;
+
+    public void deposit(int amount) {
+        if(amount > 0) {
+            this.balance += amount;
+        } else {
+            System.out.println("Error");
+        }
     }
 
-    void deposit(int amount) {
-        this.balance += amount;
+    public void withdraw(int amount) {
+        if(amount <= balance) {
+            this.balance -= amount;
+        } else {
+            System.out.println("Error");
+        }
     }
-
-    void withdraw(int amount) {
-        this.balance -= amount;
-    }
-    void printBalance() {
+    public void printBalance() {
         System.out.println(getBalance());
     }
 }
