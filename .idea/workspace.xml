@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb2ad03d-061d-4682-afd7-2d4034c81b99" name="Changes" comment="Сorrect practice_4">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="fb2ad03d-061d-4682-afd7-2d4034c81b99" name="Changes" comment="Сorrect practice_4 and practice_3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -230,7 +228,15 @@
       <option name="project" value="LOCAL" />
       <updated>1772027198017</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Сorrect practice_4 and practice_3">
+      <option name="closed" value="true" />
+      <created>1772116923916</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1772116923916</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -239,6 +245,7 @@
     <MESSAGE value="Add package practice_5" />
     <MESSAGE value="Add package practice_5 and correction of practice_3" />
     <MESSAGE value="Сorrect practice_4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Сorrect practice_4" />
+    <MESSAGE value="Сorrect practice_4 and practice_3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Сorrect practice_4 and practice_3" />
   </component>
 </project>

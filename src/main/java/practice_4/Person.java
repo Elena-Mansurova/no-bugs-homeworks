@@ -11,7 +11,7 @@ public class Person {
         this.ssn = ssn;
     }
 
-    public String gerFirstName() {
+    public String getFirstName() {
         return this.firstName;
     }
 
