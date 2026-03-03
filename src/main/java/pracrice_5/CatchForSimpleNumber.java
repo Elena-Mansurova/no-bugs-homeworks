@@ -10,18 +10,19 @@ public class CatchForSimpleNumber {
         int number = scanner.nextInt();
         boolean isPrime = true;
 
-        for (int i = 2; i <= number; i++) {
+        for (int i = 2; i < number; i++) {
             if (number % i == 0) {
                 isPrime = false;
                 break;
             }
-            if (isPrime) {
+        }
+
+            if (isPrime && number > 1) {
                 System.out.println("Number is prime");
-                break;
             } else {
                 System.out.println("not a prime");
             }
-        }
+
 
 
     }

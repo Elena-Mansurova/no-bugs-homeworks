@@ -5,14 +5,13 @@ public class Calculator {
 
     public static void main(String[] args) {
 
-        Scanner scanner1 = new Scanner(System.in);
-        int num1 = scanner1.nextInt();
+        Scanner scanner = new Scanner(System.in);
 
-        Scanner scanner2 = new Scanner(System.in);
-        int num2 = scanner2.nextInt();
+        int num1 = scanner.nextInt();
 
-        Scanner scanner3 = new Scanner(System.in);
-        String operator = scanner3.nextLine();
+        int num2 = scanner.nextInt();
+
+        String operator = scanner.next();
 
         switch (operator) {
 
@@ -22,13 +21,16 @@ public class Calculator {
 
             case "-":
                 System.out.println(num1 - num2);
+                break;
 
             case "*":
                 System.out.println(num1 * num2);
+                break;
 
             case "/":
                 if (num2 == 0) {
                     System.out.println("На ноль делить нельзя!");
+                    break;
                 }
                 System.out.println(num1 / num2);
                 break;

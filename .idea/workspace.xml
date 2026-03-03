@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb2ad03d-061d-4682-afd7-2d4034c81b99" name="Changes" comment="Сorrect practice_4 and practice_3" />
+    <list default="true" id="fb2ad03d-061d-4682-afd7-2d4034c81b99" name="Changes" comment="Сorrect practice_4 and practice_3">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/switch-to-qa-auto-project/practice_4/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/switch-to-qa-auto-project/practice_4/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pracrice_5/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pracrice_5/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pracrice_5/CatchForSimpleNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pracrice_5/CatchForSimpleNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pracrice_5/CountingOfNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pracrice_5/CountingOfNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pracrice_5/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pracrice_5/Factorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pracrice_5/OnlyPositiveNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pracrice_5/OnlyPositiveNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pracrice_5/SaleForAge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pracrice_5/SaleForAge.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,13 +96,39 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.practice_4.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice_3.Main" />
+  <component name="RunManager" selected="Application.SaleForAge">
+    <configuration name="CatchForSimpleNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pracrice_5.CatchForSimpleNumber" />
       <module name="switch-to-qa-auto-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice_3.*" />
+          <option name="PATTERN" value="pracrice_5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CountingOfNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pracrice_5.CountingOfNumbers" />
+      <module name="switch-to-qa-auto-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pracrice_5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pracrice_5.Factorial" />
+      <module name="switch-to-qa-auto-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pracrice_5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,38 +149,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pracrice_5.PrintStrings" />
+    <configuration name="SaleForAge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pracrice_5.SaleForAge" />
       <module name="switch-to-qa-auto-project" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="pracrice_5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WithoutNumbersDevidedByThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pracrice_5.WithoutNumbersDevidedByThree" />
-      <module name="switch-to-qa-auto-project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pracrice_5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="practice_4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice_4.Main" />
-      <module name="switch-to-qa-auto-project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="practice_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.practice_4.Main" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.PrintStrings" />
+        <item itemvalue="Application.SaleForAge" />
         <item itemvalue="Application.OnlyPositiveNumbers" />
-        <item itemvalue="Application.WithoutNumbersDevidedByThree" />
+        <item itemvalue="Application.Factorial" />
+        <item itemvalue="Application.CountingOfNumbers" />
+        <item itemvalue="Application.CatchForSimpleNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -236,7 +245,15 @@
       <option name="project" value="LOCAL" />
       <updated>1772116923916</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Сorrect practice_4 and practice_3">
+      <option name="closed" value="true" />
+      <created>1772118514718</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1772118514719</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

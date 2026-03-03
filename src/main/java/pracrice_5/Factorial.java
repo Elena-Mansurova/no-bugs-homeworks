@@ -12,8 +12,8 @@ public class Factorial {
         int i = 1;
 
         while (i <= n ) {
+            result *= i;
             i++;
-            result = result * n;
         }  System.out.println(result);
 
     }

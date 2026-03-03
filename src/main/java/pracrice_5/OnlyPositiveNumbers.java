@@ -11,6 +11,7 @@ public class OnlyPositiveNumbers {
         while(true) {
             int num = scanner.nextInt();
             if(num < 0) {
+                System.out.println("Enter a positive number");
                 continue;
             }
             System.out.println(num);

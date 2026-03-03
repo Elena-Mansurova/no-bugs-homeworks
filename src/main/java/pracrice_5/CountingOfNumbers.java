@@ -7,7 +7,6 @@ public class CountingOfNumbers {
 
         Scanner scanner = new Scanner(System.in);
         int num = scanner.nextInt();
-        int sum = 0;
         int i = 0;
 
         do {
@@ -15,7 +14,7 @@ public class CountingOfNumbers {
             i++;
         } while (num > 0);
 
-        System.out.println("quantity of nembers: " + num);
+        System.out.println("quantity of numbers: " + i);
 
     }
 
