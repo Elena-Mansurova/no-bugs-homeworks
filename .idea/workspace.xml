@@ -5,14 +5,48 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb2ad03d-061d-4682-afd7-2d4034c81b99" name="Changes" comment="Сorrect practice_4 and practice_3">
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_6/amusement_park/AmusementPark.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_6/amusement_park/Attraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_6/amusement_park/Carousel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_6/amusement_park/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_6/amusement_park/RollerCoaster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_6/aquarium/Aquarium.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_6/aquarium/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_6/aquarium/SeaCreature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_6/aquarium/Shark.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_6/aquarium/Starfish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_6/botanical_garden/BotanicalGarden.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_6/botanical_garden/Cactus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_6/botanical_garden/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_6/botanical_garden/Orchid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_6/botanical_garden/Plant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_6/farm/Chicken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_6/farm/Cow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_6/farm/DomesticAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_6/farm/Farm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_6/farm/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_6/museum/Exhibit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_6/museum/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_6/museum/Manuscript.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_6/museum/Museum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_6/museum/Sculpture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_6/petManage/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_6/petManage/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_6/petManage/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_6/petManage/Owner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_6/petManage/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_6/restaurantManage/Dish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_6/restaurantManage/Drink.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_6/restaurantManage/HotDish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_6/restaurantManage/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_6/restaurantManage/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_6/zoo/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_6/zoo/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_6/zoo/Elephant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_6/zoo/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_6/zoo/Zoo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/switch-to-qa-auto-project/practice_4/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/switch-to-qa-auto-project/practice_4/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pracrice_5/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pracrice_5/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pracrice_5/CatchForSimpleNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pracrice_5/CatchForSimpleNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pracrice_5/CountingOfNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pracrice_5/CountingOfNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pracrice_5/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pracrice_5/Factorial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pracrice_5/OnlyPositiveNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pracrice_5/OnlyPositiveNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pracrice_5/SaleForAge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pracrice_5/SaleForAge.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +56,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -52,57 +87,63 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.AllOddNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Calculator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CatchForSimpleNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CheckOddOrEven.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CheckingPassword.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CostOfTicket.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CountingOfNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DayOfWeek.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ExitProgram.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Factorial.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FinalCountdown.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FindMaxnumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FromOneToTen.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GradeFromOneToFive.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IfElseTasks.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LybraryTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MathOperations.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NumbersDevidedByThree.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NumbersFromOneToTen.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OnlyPositiveNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PositiveNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrintStrings.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ResultsOfTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SaleForAge.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ScoreIntoGrade.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SumOfNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SumOfNumbersTillNegative.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SumOfNumbersUntillNegative.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TableOfMultiply.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TextCommands.executor&quot;: &quot;Run&quot;,
-    &quot;Application.WithoutNumbersDevidedByThree.executor&quot;: &quot;Run&quot;,
-    &quot;Application.practice_3.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.practice_4.Main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/IdeaProjects/switch-to-qa-auto-project&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AllOddNumbers.executor": "Run",
+    "Application.Calculator.executor": "Run",
+    "Application.CatchForSimpleNumber.executor": "Run",
+    "Application.CheckOddOrEven.executor": "Run",
+    "Application.CheckingPassword.executor": "Run",
+    "Application.CostOfTicket.executor": "Run",
+    "Application.CountingOfNumbers.executor": "Run",
+    "Application.DayOfWeek.executor": "Run",
+    "Application.ExitProgram.executor": "Run",
+    "Application.Factorial.executor": "Run",
+    "Application.FinalCountdown.executor": "Run",
+    "Application.FindMaxnumber.executor": "Run",
+    "Application.FromOneToTen.executor": "Run",
+    "Application.GradeFromOneToFive.executor": "Run",
+    "Application.IfElseTasks.executor": "Run",
+    "Application.LybraryTest.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MathOperations.executor": "Run",
+    "Application.NumbersDevidedByThree.executor": "Run",
+    "Application.NumbersFromOneToTen.executor": "Run",
+    "Application.OnlyPositiveNumbers.executor": "Run",
+    "Application.PositiveNumber.executor": "Run",
+    "Application.PrintStrings.executor": "Run",
+    "Application.ResultsOfTest.executor": "Run",
+    "Application.SaleForAge.executor": "Run",
+    "Application.ScoreIntoGrade.executor": "Run",
+    "Application.SumOfNumbers.executor": "Run",
+    "Application.SumOfNumbersTillNegative.executor": "Run",
+    "Application.SumOfNumbersUntillNegative.executor": "Run",
+    "Application.TableOfMultiply.executor": "Run",
+    "Application.TextCommands.executor": "Run",
+    "Application.WithoutNumbersDevidedByThree.executor": "Run",
+    "Application.practice_3.Main.executor": "Run",
+    "Application.practice_4.Main.executor": "Run",
+    "Application.practice_6.aquarium.Main.executor": "Run",
+    "Application.practice_6.botanical_garden.Main.executor": "Run",
+    "Application.practice_6.farm.Main.executor": "Run",
+    "Application.practice_6.museum.Main.executor": "Run",
+    "Application.practice_6.petManage.Main.executor": "Run",
+    "Application.practice_6.restaurantManage.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/User/IdeaProjects/switch-to-qa-auto-project",
+    "settings.editor.selected.configurable": "vcs.Git"
   }
-}</component>
-  <component name="RunManager" selected="Application.SaleForAge">
-    <configuration name="CatchForSimpleNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pracrice_5.CatchForSimpleNumber" />
+}]]></component>
+  <component name="RunManager" selected="Application.practice_6.museum.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice_6.amusement_park.Main" />
       <module name="switch-to-qa-auto-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pracrice_5.*" />
+          <option name="PATTERN" value="practice_6.amusement_park.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +151,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CountingOfNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pracrice_5.CountingOfNumbers" />
+    <configuration name="practice_6.aquarium.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice_6.aquarium.Main" />
       <module name="switch-to-qa-auto-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pracrice_5.*" />
+          <option name="PATTERN" value="practice_6.aquarium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,12 +164,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pracrice_5.Factorial" />
+    <configuration name="practice_6.botanical_garden.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice_6.botanical_garden.Main" />
       <module name="switch-to-qa-auto-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pracrice_5.*" />
+          <option name="PATTERN" value="practice_6.botanical_garden.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,12 +177,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OnlyPositiveNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pracrice_5.OnlyPositiveNumbers" />
+    <configuration name="practice_6.farm.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice_6.farm.Main" />
       <module name="switch-to-qa-auto-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pracrice_5.*" />
+          <option name="PATTERN" value="practice_6.farm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,12 +190,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SaleForAge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pracrice_5.SaleForAge" />
+    <configuration name="practice_6.museum.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice_6.museum.Main" />
       <module name="switch-to-qa-auto-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pracrice_5.*" />
+          <option name="PATTERN" value="practice_6.museum.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,11 +205,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SaleForAge" />
-        <item itemvalue="Application.OnlyPositiveNumbers" />
-        <item itemvalue="Application.Factorial" />
-        <item itemvalue="Application.CountingOfNumbers" />
-        <item itemvalue="Application.CatchForSimpleNumber" />
+        <item itemvalue="Application.practice_6.museum.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.practice_6.botanical_garden.Main" />
+        <item itemvalue="Application.practice_6.farm.Main" />
+        <item itemvalue="Application.practice_6.aquarium.Main" />
       </list>
     </recent_temporary>
   </component>
